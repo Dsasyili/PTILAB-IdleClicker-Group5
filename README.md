@@ -1,5 +1,5 @@
 # Group5 - Idle Clicker(IF231-HL)-LAB
-####IdleClicker merupakan sebuah game
+#### IdleClicker merupakan sebuah Game sederhana berbasis Web, pengguna bisa 
 
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/Pannacotta) (00000077703)
@@ -8,3 +8,5 @@
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/khaerafi) (00000078745)
 
 ### Fitur
+1. Terdapat
+2. 
