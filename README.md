@@ -1,4 +1,4 @@
-# Group5 - Idle Clicker(IF231-HL)-LAB
+# Group5 - Idle Clicker(IF231-HL) LAB
 #### IdleClicker merupakan sebuah Game sederhana berbasis Web, pengguna bisa 
 
 ### Anggota
