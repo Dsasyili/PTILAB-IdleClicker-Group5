@@ -1,5 +1,5 @@
-# Idle Clicker - Group 5
-### IdleClicker merupakan sebuah game
+# Group5 - Idle Clicker(IF231-HL)-LAB
+####IdleClicker merupakan sebuah game
 
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/Pannacotta) (00000077703)
@@ -7,8 +7,4 @@
 - Muhammad Raehan Putra Hendarsyah/[amrptraaa](https:github.com/amrptraaa) (00000078572) 
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/khaerafi) (00000078745)
 
-### Aturan Bermain
-1.
-
 ### Fitur
-- 
