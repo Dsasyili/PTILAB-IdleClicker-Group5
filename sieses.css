@@ -1,0 +1,237 @@
+@media screen and (min-width: 768px) {
+  section {
+      padding: 1em 7em;
+  }
+}
+
+@media screen and (min-width: 992px) {
+ section {
+      padding: 1em;
+ } 
+}
+
+body {
+  background-color: cornsilk;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+
+/* Bagian Navbar */
+header {
+	background-color: grey;
+	color: #fff;
+	padding: 10px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav li {
+	margin-right: 20px;
+}
+
+nav li:last-child {
+	margin-right: 0;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+nav ul li a:hover {
+  transition-duration: .4s;
+  font-size: 20px;
+  color: rgb(3, 3, 3);
+}
+
+footer {
+	background-color: #ccc;
+	padding: 10px;
+	text-align: center;
+}
+/* End bagian Navbar */
+
+
+/* Bagian Home page */
+#content .box {
+  width: 70%;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#content .box1 {
+  width: 100%;
+  padding-left: 1em;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#content .box img {
+  border-radius: 10px;
+  width: 25%;
+}
+
+#content .text {
+  width: 90%;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding-left: 1.5em;
+}
+/* End Home page */
+
+/* Bagian Main Game */
+main {
+	margin: 50px;
+  text-align: center;
+}
+
+#sushi img {
+  width: 20%;
+}
+
+#money {
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+#auto-clicker {
+  font-size: 18px;
+	margin-top: 20px;
+}
+/* End Main game */
+
+
+/* Ukuran & Animasi tombol */
+#buy-auto-clicker {
+  background-color: rgb(39, 208, 26);
+  border-radius: 35px;
+	padding: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+  transition: .30s ease-out;
+}
+#buy-auto-clicker:hover {
+  background-color:aqua;
+  transform: scale(120%);
+  transition: .30s ease-in;  
+}
+
+#buy-branch {
+  background-color:rgb(39, 208, 26);
+  border-radius: 35px;
+  padding: 10px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: .30s ease-out;
+}
+
+#buy-branch:hover {
+  background-color:aqua;
+  transform: scale(120%);
+  transition: .30s ease-in;  
+}
+/* End Ukuran & Animasi tombol */
+
+
+/* Bagian About Us */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2em 1em;
+  text-align: center;
+} 
+
+.row .h1 .h2{
+  width: 100%;
+  text-align: center;
+  font-size: 3.5em;
+  color: #1f003b;
+}
+
+.card {
+  box-shadow: 0 0 2.2em rgba(25, 0, 58, 0,15);
+  padding: 3.5em 1em;
+  border-radius: 0.6em;
+  color: #1f003b;
+  overflow: hidden;
+  transition: 0.2s;
+  background-color: #f5f5f5;
+}
+
+.card .img-container {
+  width: 10em;
+  height: 10em;
+  background-color: rgb(255, 255, 255);
+  padding: 0.5em;
+  border-radius: 75px;
+  margin: 0 auto 4em auto;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 75px;
+  ;
+}
+
+.card h3 {
+  font-weight: 500;
+}
+
+.card p {
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0.5em 0 2em 0;
+  letter-spacing: 2px;
+}
+
+.icons {
+  width: 50%;
+  min-width: auto;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card a {
+  text-decoration: none;
+  color: inherit;
+  font-size: 1.4em;
+}
+
+.card:hover {
+  background: linear-gradient(#60453e, #8567f7);
+  color: #ffffff;
+}
+
+.card:hover .img-container {
+  transform: scale(1.15);
+}
+
+.card {
+  padding: 5em 1em;
+}
+
+.column {
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+  padding: 0 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+  font-size: 3.5em;
+  color: #1f003b;
+}
+/* End bagian About Us */
+
+
