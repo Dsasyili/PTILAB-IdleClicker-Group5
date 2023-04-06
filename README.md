@@ -8,5 +8,5 @@
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/khaerafi) (00000078745)
 
 ### Fitur
-1. Terdapat
+1. Terdapat halaman Home Page, Main Game, dan About US.
 2. 
