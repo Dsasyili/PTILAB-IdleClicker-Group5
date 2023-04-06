@@ -1,5 +1,5 @@
 # Group5 - Idle Clicker(IF231-HL) LAB
-#### Idle Clicker Game merupakan sebuah Game sederhana berbasis Web
+#### Sushi game merupakan sebuah game Clicker sederhana berbasis Web, dimana didalam game ini pemain hanya mengclick gambar Sushi untuk mendapatkan uang. Dari hasil uang yang sudah terkumpul, pemain dapat membeli beberapa item upgrade add-on, untuk memulai permainan langsung ke halaman Main Game.
 
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/Pannacotta) (00000077703)
