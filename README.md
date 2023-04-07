@@ -7,10 +7,6 @@ Sushi game merupakan sebuah game Clicker sederhana berbasis Web, dimana didalam 
 - Muhammad Raehan Putra Hendarsyah/[amrptraaa](https:github.com/amrptraaa) (00000078572) 
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/khaerafi) (00000078745)
 
-## Link Game
-https://Dsasyili.github.io/PTILAB-IdleClicker-Group5/Home page.html
-
-
 ## Fitur & Batasan
 - Pada bagian awal terdapat halaman Home Page yang memiliki Navigation Bar untuk mengarahkan pemain kebagian Main Game dan About Us.
 - Pada bagian Main Game, Uang akan bertambah saat pemain mengclick objek Sushi.
@@ -21,6 +17,6 @@ https://Dsasyili.github.io/PTILAB-IdleClicker-Group5/Home page.html
 - Terdapat halaman About Us yang berisi data diri kelompok dan References.
 
 ## References
-- W3School(https://www.w3schools.com/)
-- NiagaHoster(https://www.niagahoster.co.id/blog/)
-- FontAwesome(https://fontawesome.com/)
+- W3School https://www.w3schools.com/
+- FontAwesome https://fontawesome.com/
+- NiagaHoster https://www.niagahoster.co.id/blog/ 
