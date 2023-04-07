@@ -8,6 +8,7 @@ Sushi game merupakan sebuah game Clicker sederhana berbasis Web, dimana didalam 
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/khaerafi) (00000078745)
 
 ## Link Game
+https://Dsasyili.github.io/PTILAB-IdleClicker-Group5/Home page.html
 
 
 ## Fitur & Batasan
