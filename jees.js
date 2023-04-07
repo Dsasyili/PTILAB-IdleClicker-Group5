@@ -74,7 +74,6 @@ function updateManualClickDisplay() {
 }
 // End Update Interface
 
-
 // Local Storage
 function autoSave() {
 	setInterval(function() {
